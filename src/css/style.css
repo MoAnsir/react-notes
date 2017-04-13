@@ -1,0 +1,9 @@
+body {
+	background-color: grey;
+}
+.note {
+	width: 150px;
+	height: 200px;
+	background-color: yellow;
+	padding: 10px;
+}
